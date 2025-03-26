@@ -1,0 +1,75 @@
+h3{
+    color: rgb(241, 131, 168);
+}
+p{
+    color: red;
+    font-size: 32px;
+    font-weight: 900;
+    font-style: italic;
+    font-family: 'Times New Roman', Times, serif;
+    text-decoration:underline ;
+    word-spacing: 20px;
+    line-height: 40px;
+    text-transform: uppercase;
+    text-shadow: 2px 2px black;
+    padding-top: 50px;
+    padding-left: 50px;
+    padding-bottom: 50px;
+    padding-right: 50px;
+}
+h1{
+    color: red;
+    font-size: 32px;
+    font-weight: 900;
+    font-style: italic;
+    font-family: 'Times New Roman', Times, serif;
+    text-decoration:underline ;
+    word-spacing: 10px;
+    line-height: 40px;
+    text-transform: uppercase;
+    text-shadow: 1px 1px black;
+}
+.para{
+    color: green;
+    background:rgb(115, 178, 236);
+    font-size: 64px;
+    line-height: 60px;
+}
+.para{
+    color: brown;
+    padding-top: 100px;
+    padding-bottom: 100px;
+    padding-left: 100px;
+    padding-right: 100px;
+
+    border-top-width:10px ;
+    border-top-style:dashed;
+    border-top-color: rgb(32, 32, 39);
+
+    border-right-style: dotted ;
+    border-right-width:5px ;
+    border-right-color: blue;
+
+    border: 200px solid blueviolet;
+
+}
+form{
+    border:10px solid black;
+    background-color: beige;
+    border-top-left-radius: 60px;
+    border-top-right-radius: 60px;
+    border-bottom-left-radius: 60px;
+    border-bottom-right-radius: 60px;
+
+    border-radius: 60px;
+
+    margin: 80px 50px 100px 50px;
+}
+body{
+    background-image:url(123.jpg);
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+    background-attachment: fixed;
+
+}
